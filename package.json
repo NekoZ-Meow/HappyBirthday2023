@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "aframe-animation-component": "^5.1.2",
-    "aframe-chromakey-material": "^1.1.4"
-  }
-}
