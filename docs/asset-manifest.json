@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://nekoz-meow.github.io/HappyBirthday2023/static/css/main.e6c13ad2.css",
-    "main.js": "https://nekoz-meow.github.io/HappyBirthday2023/static/js/main.b2c9bf2a.js",
+    "main.js": "https://nekoz-meow.github.io/HappyBirthday2023/static/js/main.f6a2a8ce.js",
     "static/media/birthdaycake.gltf": "https://nekoz-meow.github.io/HappyBirthday2023/static/media/birthdaycake.aaf9733d411ab5612ee4.gltf",
     "index.html": "https://nekoz-meow.github.io/HappyBirthday2023/index.html",
     "main.e6c13ad2.css.map": "https://nekoz-meow.github.io/HappyBirthday2023/static/css/main.e6c13ad2.css.map",
-    "main.b2c9bf2a.js.map": "https://nekoz-meow.github.io/HappyBirthday2023/static/js/main.b2c9bf2a.js.map"
+    "main.f6a2a8ce.js.map": "https://nekoz-meow.github.io/HappyBirthday2023/static/js/main.f6a2a8ce.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b2c9bf2a.js"
+    "static/js/main.f6a2a8ce.js"
   ]
 }
